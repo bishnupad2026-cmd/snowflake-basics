@@ -1,0 +1,8 @@
+[default]
+account = "YOUR_ACCOUNT"
+user = "YOUR_USER"
+password = "YOUR_PASSWORD"
+warehouse = "LEARN_WH"
+database = "LEARN_DB"
+schema = "RETAIL"
+role = "ACCOUNTADMIN"

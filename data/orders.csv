@@ -1,0 +1,4 @@
+order_id,customer,amount,ordered_at
+1,Asha,42.50,2026-10-01
+2,Ben,18.00,2026-10-02
+3,Asha,11.25,2026-10-03

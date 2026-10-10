@@ -1,0 +1,5 @@
+.env
+connections.toml
+*.p8
+*.pem
+*.priv
